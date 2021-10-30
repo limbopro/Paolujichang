@@ -63,6 +63,8 @@ Anrun运营中心
 |     Conair      |    无    | 2021.03.12 |            [参阅](https://t.me/QuanXApp/1189768)             |
 |  ~~路飞船长~~   |    无    | 2021.03.12 |                       ？？？头一次听说                       |
 |      云梯       |    无    | 2021.03.12 |                       ？？？头一次听说                       |
+|      x-ssr      |   3年    |  2021.10   | 曾用域名 x-ssr.cc/x-ssr.club/passwall.pro/dolphincloud.cc [参阅](https://t.me/airportbbq/11107) |
+
 
 
 
