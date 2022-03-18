@@ -27,8 +27,9 @@ AIA(Anycast)/CC拔线开始，其他方案上线；
 | :--------: | :------: | :----------------------------------------------------------: | :----------: |
 |   修罗云   |  已跑路  | [参阅](https://t.me/airportbbq/14425)/[hostloc](https://hostloc.com/thread-972948-1-1.html) |  03.18.2022  |
 
-- [有什么办法阻止修罗云这家公司继续骗人?](https://hostloc.com/thread-972948-1-1.html)；
-- 谷歌搜索[修罗云](https://www.google.com.hk/search?q=%E4%BF%AE%E7%BD%97%E4%BA%91%E8%B7%91%E8%B7%AF)；
+1.[有什么办法阻止修罗云这家公司继续骗人?](https://hostloc.com/thread-972948-1-1.html)；
+
+2.谷歌搜索[修罗云](https://www.google.com.hk/search?q=%E4%BF%AE%E7%BD%97%E4%BA%91%E8%B7%91%E8%B7%AF)；
 
 暂无较知名、影响较大的机场跑路；如遇机场跑路、机场主摆烂遇事放任自流，欢迎大家PM补充；**投稿联系**：https://t.me/limboprobot
 
