@@ -29,16 +29,17 @@ AIA(Anycast)/CC拔线开始，其他方案上线；
 
 |         机场名/VPS/IDC          |    类型    | 跑路日期 |                             备注                             | 最后更新日期 |
 | :-----------------------------: | :--------: | :------: | :----------------------------------------------------------: | :----------: |
+|             速蛙云              |    机场    |  已跑路  |            [参阅](https://t.me/airportbbq/17398)             |  07.30.2022  |
 |             修罗云              |    机场    |  已跑路  | [参阅](https://t.me/airportbbq/14425)/[hostloc](https://hostloc.com/thread-972948-1-1.html) |  03.18.2022  |
 |             樱花云              |    机场    |   跑路   |            [参阅](https://t.me/airportbbq/15700)             |  05.14.2022  |
 | Nathosts (部分机场IEPL专线上游) | 上游服务商 |   失联   |                          05.22.2022                          |              |
 |       TTNet Cloud (机场)        |    机场    |   跑路   |            [参阅](https://t.me/airportbbq/15918)             |  05.23.2022  |
 
+1.
 
+2.[有什么办法阻止修罗云这家公司继续骗人?](https://hostloc.com/thread-972948-1-1.html)；
 
-1.[有什么办法阻止修罗云这家公司继续骗人?](https://hostloc.com/thread-972948-1-1.html)；
-
-2.谷歌搜索[修罗云](https://www.google.com.hk/search?q=%E4%BF%AE%E7%BD%97%E4%BA%91%E8%B7%91%E8%B7%AF)；
+3.谷歌搜索[修罗云](https://www.google.com.hk/search?q=%E4%BF%AE%E7%BD%97%E4%BA%91%E8%B7%91%E8%B7%AF)；
 
 暂无较知名、影响较大的机场跑路；如遇机场跑路、机场主摆烂遇事放任自流，欢迎大家PM补充；**投稿联系**：https://t.me/limboprobot
 
