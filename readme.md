@@ -21,9 +21,16 @@ AIA(Anycast)/CC拔线开始，其他方案上线；
 
 ## 2022年机场跑路名单
 
+### 09.02.2022 更新
+
+
+IDC向：深港IEPL上游跑路，[参阅](https://t.me/airportbbq/18700)，受影响机场不计其数，包括但不限于 包括但不限于：prprCloud，X-Air，逗猫，FastCloud，超级跑车，闪电，BitzNet，ByWave，网抑云，土豆云等机场受到不同程度影响；[参阅](https://t.me/airportbbq/18678)
+
+
+
 ### 05.26.2022 更新
 
- Nathosts 拔线，受影响机场不计其数，包括但不限于 DlerCloud（即墙洞机场）/泡芙云（[参阅]([url](https://t.me/airportbbq/15929))）/biteb/萌喵加速-Nirvana等机场；
+IDC向：Nathosts 拔线，受影响机场不计其数，包括但不限于 DlerCloud（即墙洞机场）/泡芙云（[参阅]([url](https://t.me/airportbbq/15929))）/biteb/萌喵加速-Nirvana等机场；
 
 ### 含跑路的机场及VPS/IDC供应商；
 
@@ -49,6 +56,7 @@ AIA(Anycast)/CC拔线开始，其他方案上线；
 
 | 机场名     | 跑路日期                                         | 备注                                  | 最后更新日期 |
 | ---------- | ------------------------------------------------ | ------------------------------------- | ------------ |
+| 世外桃源   | 09.03.2022                                       | [参阅](https://t.me/airportbbq/18731) | 09.03.2022   |
 | 纸飞机     | 预警                                             | [参阅](https://t.me/airportbbq/18174) | 08.22.2022   |
 | ~~泡芙云~~ | ~~预警~~                                         | [参阅](https://t.me/airportbbq/17718) | 08.08.2022   |
 | 速蛙云     | 高度预警                                         | [参阅](https://t.me/airportbbq/17398) | 07.30.2022   |
