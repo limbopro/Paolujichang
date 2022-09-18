@@ -16,7 +16,6 @@
 | Nexitally(奶昔机场) | AIA(Anycast)线路下线 | 2022年1月1日 |
 | Nexitally(奶昔机场) |      Huawei CC线路下线      |  2022年3月   |
 
-
 AIA(Anycast)/CC拔线开始，其他方案上线；
 
 ## 2022年机场跑路名单
@@ -34,6 +33,9 @@ AIA(Anycast)/CC拔线开始，其他方案上线；
 | Nathosts (部分机场IEPL专线上游) | 上游服务商 |   失联   |                          05.22.2022                          |              |
 |       TTNet Cloud (机场)        |    机场    |   跑路   |            [参阅](https://t.me/airportbbq/15918)             |  05.23.2022  |
 
+### 09.18.2022 更新
+
+
 ```
 [ 通知 ]
 
@@ -47,12 +49,6 @@ Blinkload 官方通知频道
 
 
 
-1.[有什么办法阻止修罗云这家公司继续骗人?](https://hostloc.com/thread-972948-1-1.html)；
-
-2.谷歌搜索[修罗云](https://www.google.com.hk/search?q=%E4%BF%AE%E7%BD%97%E4%BA%91%E8%B7%91%E8%B7%AF)；
-
-暂无较知名、影响较大的机场跑路；如遇机场跑路、机场主摆烂遇事放任自流，欢迎大家PM补充；**投稿联系**：https://t.me/limboprobot
-
 ### 09.02.2022 更新
 
 
@@ -63,6 +59,16 @@ IDC向：深港IEPL上游跑路，[参阅](https://t.me/airportbbq/18700)，受�
 
 IDC向：Nathosts 拔线，受影响机场不计其数，包括但不限于 DlerCloud（即墙洞机场）/泡芙云（[参阅]([url](https://t.me/airportbbq/15929))）/biteb/萌喵加速-Nirvana等机场；
 
+### 其他
+
+1.[有什么办法阻止修罗云这家公司继续骗人?](https://hostloc.com/thread-972948-1-1.html)；
+
+2.谷歌搜索[修罗云](https://www.google.com.hk/search?q=%E4%BF%AE%E7%BD%97%E4%BA%91%E8%B7%91%E8%B7%AF)；
+
+### 投稿
+
+
+暂无较知名、影响较大的机场跑路；如遇机场跑路、机场主摆烂遇事放任自流，欢迎大家PM补充；**投稿联系**：https://t.me/limboprobot
 
 ## 2022年机场跑路预警
 
