@@ -93,6 +93,8 @@ IDC向：Nathosts 拔线，受影响机场不计其数，包括但不限于 Dler
 | ---------- | ------------------------------------------------ | ------------------------------------- | ------------ |
 | 腾龙加速器 | 预警                                             | [参阅](https://t.me/airportbbq/20216) | 11.12.2022   |
 | 猫猫云     | 预警                                             | [参阅](https://t.me/airportbbq/20212) | 11.11.2022   |
+| 魔晶云     | 预警                                             | [参阅](https://t.me/airportbbq/19835) | 10.30.2022   |
+| miru       | 预警                                             | [参阅](https://t.me/airportbbq/19839) | 10.30.2022   |
 | Blinkload  | 09.18.2022                                       | [参阅](https://t.me/airportbbq/19080) | 09.17.2022   |
 | 世外桃源   | 09.03.2022                                       | [参阅](https://t.me/airportbbq/18731) | 09.03.2022   |
 | 纸飞机     | 预警                                             | [参阅](https://t.me/airportbbq/18174) | 08.22.2022   |
@@ -104,7 +106,6 @@ IDC向：Nathosts 拔线，受影响机场不计其数，包括但不限于 Dler
 | 4kxray机场 | 预警                                             | [参阅](https://t.me/airportbbq/13963) | 02.18.2022   |
 | 速鹰666    | ~~预警~~ 已恢复                                  | [参阅](https://t.me/airportbbq/16499) | 06.09.2022   |
 | aaex机场   | 06.30.2022 [参阅](https://t.me/airportbbq/16859) | [参阅](https://t.me/airportbbq/16585) | 06.13.2022   |
-
 
 
 [速蛙是不是跑路了？](https://hostloc.com/thread-1053964-1-1.html) ；
