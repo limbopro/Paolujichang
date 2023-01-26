@@ -40,6 +40,11 @@
 | Blinkload机场 |                    ~~AIA(Anycast) 线路下线~~ 已跑路                     | 2022年1月5日  |
 |   Nexitally   |                    AIA(Anycast) 线路下线                     | 2022年1月1日  |
 
+### 隐私忧虑
+
+
+![Nexitally 奶昔机场用户使用数据统计-用户端后台可见][1]
+
 
 ## 2022年机场跑路名单
 
@@ -210,3 +215,4 @@ IDC向：Nathosts 拔线，受影响机场不计其数，包括但不限于 Dler
 17 September 2019 15:36
 ```
 
+[1]: https://raw.githubusercontent.com/limbopro/paolujichang/main/photo_2022-05-29_00-56-19.jpg
