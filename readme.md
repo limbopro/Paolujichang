@@ -42,6 +42,8 @@
 | Blinkload机场 |                    ~~AIA(Anycast) 线路下线~~ 已跑路                     | 2022年1月5日  |
 |   Nexitally   |                    AIA(Anycast) 线路下线                     | 2022年1月1日  |
 
+> **尽力退款**：“看看就好”。
+
 ### 隐私忧虑
 
 
