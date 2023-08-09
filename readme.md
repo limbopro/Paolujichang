@@ -21,7 +21,7 @@
 | 魔法学院 | 机场  | 已跑路/高风险 | [参阅](https://t.me/airportbbq/22402) | 08.07.2023 |
 | 赔钱机场 | 机场  | 已跑路/高风险 | [参阅](https://t.me/airportbbq/22210) | 06.18.2023 |
 | 七七云 | 机场  | 预警  | [参阅](https://t.me/airportbbq/22147) | 06.02.2023 |
-| 泡泡云/PaoPaoCloud | 机场  | 已跑路/高风险 | [参阅](https://t.me/airportbbq/22028) / [参阅2](https://t.me/airportbbq/22420) | 06.02.2023 |
+| 泡泡云/PaoPaoCloud | 机场  | 已跑路/高风险 | [参阅](https://t.me/airportbbq/22028) / [参阅2](https://t.me/airportbbq/22420) | 08.09.2023 |
 | 八方云 | 机场  | 预警  | [参阅](https://t.me/airportbbq/22047) | 05.12.2023 |
 | 云云云 | 机场  | 已跑路 | [参阅](https://t.me/airportbbq/21413) | 03.27.2023 |
 | 超级跑车 | 机场  | 已跑路 | [参阅](https://t.me/airportbbq/21386) | 03.23.2023 |
