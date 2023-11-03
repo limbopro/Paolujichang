@@ -8,6 +8,21 @@
 **投稿联系**：https://t.me/limboprobot
 **博客地址**：https://limbopro.com/
 
+## 2023年代理工具重要事件记录
+
+Clash Core 已删库
+clash for Windows 已删库
+Tuic 协议 已删库
+Helloworld 路由器插件 已删库
+GUI For Clash 已删库
+Clash for Android 已删库
+Homeproxy 已存档
+ClashMetaForAndroid 已存档
+Fclash 已存档
+Clash Verge 已存档
+
+自 2023年11月2日起发生的一系列围绕 Clash 展开的删库事件；最后更新于 11.03.2023 ；
+
 ## 2023年机场重要事件记录
 
 | 名字  | 类型  | 事件描述 | 备注  | 最后更新日期 |
