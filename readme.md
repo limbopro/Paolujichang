@@ -8,6 +8,14 @@
 **投稿联系**：https://t.me/limboprobot
 **博客地址**：https://limbopro.com/
 
+## 2024年机场跑路名单
+
+### 含跑路的机场及VPS/IDC供应商
+
+| 名字  | 类型  | 警告级别 | 备注  | 最后更新日期 |
+| --- | --- | --- | --- | --- |
+| Fastlink | 机场  | 跑路预警 | [参阅](https://github.com/limbopro/paolujichang/issues/8) | 01.14.2024 |
+
 ## 2023年代理工具重要事件记录
 
 * Clash Core 已删库 
