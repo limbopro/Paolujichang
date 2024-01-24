@@ -14,7 +14,9 @@
 
 | 名字  | 类型  | 警告级别 | 备注  | 最后更新日期 |
 | --- | --- | --- | --- | --- |
-| Fastlink | 机场  | 跑路预警 | [参阅](https://github.com/limbopro/paolujichang/issues/8) | 01.14.2024 |
+| ~~Fastlink~~ | ~~机场~~  | ~~跑路预警~~ | [参阅](https://github.com/limbopro/paolujichang/issues/8) | 01.14.2024 |
+
+> Fastlink机场 跑路预警撤回；客服已恢复；01.24.2023 更新；参阅；
 
 ## 2023年代理工具重要事件记录
 
