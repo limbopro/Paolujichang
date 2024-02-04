@@ -14,7 +14,10 @@
 
 | 名字  | 类型  | 警告级别 | 备注  | 最后更新日期 |
 | --- | --- | --- | --- | --- |
-| ~~Fastlink~~ | ~~机场~~  | ~~跑路预警~~ | [参阅](https://github.com/limbopro/paolujichang/issues/8) | 01.14.2024 |
+| tpap | 线路上游 | 已跑路 | [参阅](https://t.me/airportbbq/23716) / [后续](https://t.me/airportbbq/23724) | 02.04.2024 |
+| ~~Fastlink~~ | ~~机场~~ | ~~跑路预警~~ | [参阅](https://github.com/limbopro/paolujichang/issues/8) | 01.14.2024 |
+
+> **最速传说**：tpap（卖线路的）收割机场主；“不止一家，ash，新云，私房菜都被他割了” Via [参阅](https://t.me/airportbbq/23727)；
 
 > Fastlink机场 跑路预警撤回；客服已恢复；01.24.2023 更新；参阅；
 
