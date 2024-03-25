@@ -14,6 +14,8 @@
 
 | 名字  | 类型  | 警告级别 | 备注  | 最后更新日期 |
 | --- | --- | --- | --- | --- |
+| naiunet | 机场  | 预警  | [参阅](https://t.me/airportbbq/23796) | 03.11.2024 |
+| chiselwall | 机场  | 已跑路 | [参阅](https://t.me/airportbbq/23794) | 03.11.2024 |
 | sockboom | 机场  | 已跑路 | [参阅](https://t.me/airportbbq/23706) | 02.01.2024 |
 | tpap | 线路上游 | 已跑路 | [参阅](https://t.me/airportbbq/23716) / [后续](https://t.me/airportbbq/23724) | 02.04.2024 |
 | ~~Fastlink~~ | ~~机场~~ | ~~跑路预警~~ | [参阅](https://github.com/limbopro/paolujichang/issues/8) | 01.14.2024 |
