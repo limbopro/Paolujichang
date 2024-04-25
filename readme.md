@@ -5,9 +5,7 @@
 ### 说明
 本计划（跑路机场合集）始于2020年12月4日，灵感来自 Tempest（原 RixCloud 机场） 跑路事件，涉及用户较多，宣传较多，影响较大；本清单会持续扩充，如遇机场跑路、机场主摆烂遇事放任自流，欢迎大家PM补充；
 
-**投稿联系**：https://t.me/limboprobot （电报机器人）
-**机场情报**：https://t.me/airportbbq（电报频道）
-**博客地址**：https://limbopro.com/ （博客）
+> **投稿联系**：https://t.me/limboprobot （电报机器人）<br>**机场情报**：https://t.me/airportbbq （电报频道）<br> **博客地址**：https://limbopro.com/ （博客）
 
 ## 2024年机场跑路名单
 
