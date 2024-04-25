@@ -14,6 +14,8 @@
 
 | 名字  | 类型  | 警告级别 | 备注  | 最后更新日期 |
 | --- | --- | --- | --- | --- |
+| 自由鲸（原心阶云） | 机场  | 已跑路 | [参阅](https://t.me/airportbbq/23913) | 04.25.2024 |
+| 影界网络 | 机场  | 已跑路 | [参阅](https://t.me/airportbbq/23912) | 04.25.2024 |
 | naiunet | 机场  | 预警  | [参阅](https://t.me/airportbbq/23796) | 03.11.2024 |
 | chiselwall | 机场  | 已跑路 | [参阅](https://t.me/airportbbq/23794) | 03.11.2024 |
 | sockboom | 机场  | 已跑路 | [参阅](https://t.me/airportbbq/23706) | 02.01.2024 |
