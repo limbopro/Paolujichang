@@ -13,7 +13,7 @@
 
 | 名字  | 类型  | 警告级别 | 备注  | 最后更新日期 |
 | --- | --- | --- | --- | --- |
-| CreamData（奶油机场） | 机场  | 已跑路 | [参阅](https://t.me/airportbbq/23923) | 04.27.2024 |
+| ~~CreamData（奶油机场）~~ | 机场  |~~已跑路~~ | [参阅](https://t.me/airportbbq/23923) | 04.27.2024 |
 | TLY机场(特洛伊/BaaCloud) | 机场  | 已跑路 | [参阅](https://github.com/limbopro/paolujichang/issues/10) | $04.25.2024$ |
 | Skicat/Catree | 机场  | 已跑路 | [参阅](https://t.me/airportbbq/23918) | 04.25.2024 |
 | 自由鲸（原心阶云） | 机场  | 已跑路 | [参阅](https://t.me/airportbbq/23913) | 04.25.2024 |
