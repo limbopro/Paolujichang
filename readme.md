@@ -13,7 +13,8 @@
 
 | 名字  | 类型  | 警告级别 | 备注  | 最后更新日期 |
 | --- | --- | --- | --- | --- |
-| ~~CreamData（奶油机场）~~ | 机场  |~~已跑路~~ | [参阅](https://t.me/airportbbq/23923) | 04.27.2024 |
+| 冲浪猫/CLM | 机场  | 已跑路 | [参阅](https://t.me/airportbbq/23953) / [issue](https://github.com/limbopro/paolujichang/issues/12) | 05.07.2024 |
+| ~~CreamData（奶油机场）~~ | 机场  | ~~已跑路~~ | [参阅](https://t.me/airportbbq/23923) | 04.27.2024 |
 | TLY机场(特洛伊/BaaCloud) | 机场  | 已跑路 | [参阅](https://github.com/limbopro/paolujichang/issues/10) | $04.25.2024$ |
 | Skicat/Catree | 机场  | 已跑路 | [参阅](https://t.me/airportbbq/23918) | 04.25.2024 |
 | 自由鲸（原心阶云） | 机场  | 已跑路 | [参阅](https://t.me/airportbbq/23913) | 04.25.2024 |
@@ -22,7 +23,7 @@
 | chiselwall | 机场  | 已跑路 | [参阅](https://t.me/airportbbq/23794) | 03.11.2024 |
 | sockboom | 机场  | 已跑路 | [参阅](https://t.me/airportbbq/23706) | 02.01.2024 |
 | tpap | 线路上游 | 已跑路 | [参阅](https://t.me/airportbbq/23716) / [后续](https://t.me/airportbbq/23724) | 02.04.2024 |
-| ~~Fastlink~~ | ~~机场~~ | ~~跑路预警~~ | [参阅](https://github.com/limbopro/paolujichang/issues/8) | 01.14.2024 |
+| ~~Fastlink~~ | ~~机场~~ | ~~跑路预警~~ | https://github.com/limbopro/paolujichang/issues/8 | 01.14.2024 |
 
 > **最速传说**：tpap（卖线路的）收割机场主；“不止一家，ash，新云，私房菜都被他割了” Via [参阅](https://t.me/airportbbq/23727)；
 
