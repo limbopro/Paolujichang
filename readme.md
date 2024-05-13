@@ -5,7 +5,10 @@
 ### 说明
 本计划（跑路机场合集）始于2020年12月4日，灵感来自 Tempest（原 RixCloud 机场） 跑路事件，涉及用户较多，宣传较多，影响较大；本清单会持续扩充，如遇机场跑路、机场主摆烂遇事放任自流，欢迎大家PM补充；
 
-> **投稿联系**：https://t.me/limboprobot （电报机器人）<br>**机场情报**：https://t.me/airportbbq （电报频道）<br> **博客地址**：https://limbopro.com/ （博客）
+### 投稿注意
+📢 [投稿注意] 如你所使用的机场已跑路或有相关迹象 [如服务长时不可用/客服或工单长时无响应/问题长时无法解决等等] 可在此提交 issues https://github.com/limbopro/paolujichang/issues (如条件允许，**请优先提交issue**，方便其他受波及用户（乃至机场🐽）参与反馈) 或 投稿至 电报 🤖 [@limboprobot](https://t.me/limboprobot) ；
+
+> **联系**：https://t.me/limboprobot （电报机器人）<br>**机场情报**：https://t.me/airportbbq （电报频道）<br> **博客地址**：https://limbopro.com/ （博客）
 
 ## 2024年机场跑路名单
 
