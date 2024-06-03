@@ -16,6 +16,8 @@
 
 | 名字  | 类型  | 警告级别 | 备注  | 最后更新日期 |
 | --- | --- | --- | --- | --- |
+| 新云机场 | 机场  | 跑路预警 | https://t.me/airportbbq/24068 | 06.03.2024 |
+| XLM Cloud | 机场  | 跑路预警 | https://t.me/airportbbq/24065 | 06.03.2024 |
 | Fastlink | 机场  | 跑路预警 | https://github.com/limbopro/paolujichang/issues/8 | 06.03.2024 |
 | BoomCloud | 机场  | 跑路预警 | https://github.com/limbopro/paolujichang/issues/13 | 05.09.2024 |
 | 冲浪猫/CLM | 机场  | 已跑路 | [参阅](https://t.me/airportbbq/23953) / [issue](https://github.com/limbopro/paolujichang/issues/12) | 05.07.2024 |
