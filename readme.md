@@ -18,6 +18,7 @@
 | --- | --- | --- | --- | --- |
 | v2Club/蓝岸（BoomCloud子机场） | 机场  | 跑路 |https://github.com/limbopro/paolujichang/issues/20| 06.09.2024 |
 | 新云机场 | 机场  | 跑路预警 | https://t.me/airportbbq/24068 | 06.03.2024 |
+| 新云机场 | 机场  | 跑路预警 | https://t.me/airportbbq/24068 | 06.03.2024 |
 | XLM Cloud | 机场  | 跑路预警 | https://t.me/airportbbq/24065 | 06.03.2024 |
 | Fastlink | 机场  | 跑路预警 | https://github.com/limbopro/paolujichang/issues/8 | 06.03.2024 |
 | BoomCloud | 机场  | 跑路预警 | https://github.com/limbopro/paolujichang/issues/13 | 05.09.2024 |
@@ -30,6 +31,7 @@
 | naiunet | 机场  | 预警  | [参阅](https://t.me/airportbbq/23796) | 03.11.2024 |
 | chiselwall | 机场  | 已跑路 | [参阅](https://t.me/airportbbq/23794) | 03.11.2024 |
 | sockboom | 机场  | 已跑路 | [参阅](https://t.me/airportbbq/23706) | 02.01.2024 |
+| 牛牛很牛 | 机场  | 已跑路 | [参阅](https://t.me/airportbbq/23691) | 01.23.2024 |
 | tpap | 线路上游 | 已跑路 | [参阅](https://t.me/airportbbq/23716) / [后续](https://t.me/airportbbq/23724) | 02.04.2024 |
 
 > **最速传说**：tpap（卖线路的）收割机场主；“不止一家，ash，新云，私房菜都被他割了” Via [参阅](https://t.me/airportbbq/23727)；
