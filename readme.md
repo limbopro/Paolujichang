@@ -7,7 +7,7 @@
 
 ### 投稿注意
 
-📢 **投稿注意**：如你所使用的机场已跑路或有相关迹象（如服务长时不可用/客服或工单长时无响应/问题长时无法解决等等）可在此查看或提交 issues -> https://github.com/limbopro/paolujichang/issues (如条件允许，**请优先提交issue**，方便其他受波及用户（乃至机场🐽）参与反馈) 或 投稿至 电报 🤖 [@limboprobot](https://t.me/limboprobot) ；
+📢 **投稿注意**：如你所使用的机场已跑路或有相关迹象（如服务长时不可用/客服或工单长时无响应/问题长时无法解决等等）可在此查看或提交 issues -> https://github.com/limbopro/paolujichang/issues (如条件允许，**请优先提交issue**，方便其他受波及用户（乃至机场🐽）参与反馈) 或 投稿至 电报 🤖 [@limboprobot](https://t.me/limboprobot) ；⚠️ 对于 issues 中可能存在的推广/投机行为，与**本计划（跑路机场合集）主题**非相关，如有发现，相关回复或将被隐藏/删除处理，由此可能带来的“不便”，敬请谅解。
 
 > **联系**：https://t.me/limboprobot （电报机器人）<br>**机场情报**：https://t.me/airportbbq （电报频道）<br> **博客地址**：https://limbopro.com/ （博客）
 
