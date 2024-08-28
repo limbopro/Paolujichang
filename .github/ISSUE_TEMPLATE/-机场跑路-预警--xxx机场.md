@@ -1,7 +1,7 @@
 ---
 name: "[机场跑路/预警]：XXX机场"
-about: 跑路预警：XXX机场
-title: ".[机场跑路/预警]"
+about: "[机场跑路/预警]：XXX机场"
+title: "[机场跑路/预警]"
 labels: help wanted
 assignees: limbopro
 
