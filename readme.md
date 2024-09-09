@@ -17,12 +17,16 @@
 
 | 名字  | 类型  | 警告级别 | 备注  | 最后更新日期 |
 | --- | --- | --- | --- | --- |
+| DuangCloud | 机场  | 跑路 |https://github.com/limbopro/paolujichang/issues/44 | 09.01.2024 |
+| leensa | VPN  | 跑路预警 | https://github.com/limbopro/paolujichang/issues/40 | 08.23.2024 |
+| 六尺巷 | VPN  | 跑路 | https://github.com/limbopro/paolujichang/issues/39 | 08.15.2024 |
 | BHcloud/蜂巢 | 机场  | 跑路预警 | [参阅2](https://t.me/airportbbq/24182) https://github.com/limbopro/paolujichang/issues/28 | 07.11.2024 |
 | 流量光 | 机场  | 跑路  | [参阅](https://t.me/airportbbq/24134) https://github.com/limbopro/paolujichang/issues/21 | 06.27.2024 |
 | v2Club/蓝岸（BoomCloud子机场） | 机场  | 跑路  | https://github.com/limbopro/paolujichang/issues/20 | 06.09.2024 |
 | 新云机场 | 机场  | 跑路预警 | [参阅](https://t.me/airportbbq/24068) | 06.03.2024 |
 | XLM Cloud | 机场  | 跑路预警 | [参阅](https://t.me/airportbbq/24065) | 06.03.2024 |
 | Fastlink | 机场  | 跑路预警 | https://github.com/limbopro/paolujichang/issues/8 | 06.03.2024 |
+| 萌喵 | 机场  | 跑路 | https://github.com/limbopro/paolujichang/issues/14 | 05.13.2024 |
 | BoomCloud | 机场  | 跑路预警 | https://github.com/limbopro/paolujichang/issues/13 | 05.09.2024 |
 | 冲浪猫/CLM | 机场  | 已跑路 | [参阅](https://t.me/airportbbq/23953) https://github.com/limbopro/paolujichang/issues/12 | 05.07.2024 |
 | ~~CreamData（奶油机场）~~ | 机场  | ~~已跑路~~ | [参阅](https://t.me/airportbbq/23923) | 04.27.2024 |
