@@ -9,7 +9,11 @@
 
 📢 **投稿注意**：如你所使用的机场已跑路或有相关迹象（如服务长时不可用/客服或工单长时无响应/问题长时无法解决等等）可**在此查看或提交 issues** -> https://github.com/limbopro/paolujichang/issues (如条件允许，**请优先提交issue**，方便其他受波及用户（乃至机场🐽）参与反馈) 或 投稿至 电报机器人🤖 [@limboprobot](https://t.me/limboprobot) ；⚠️ 对于issues及其回复↩️中可能存在的**推广/投机**行为，与**本计划（跑路机场合集）主题**非相关，请注意鉴别，一经发现，视情节或被隐藏/删除处理，由此可能带来的“不便”，敬请谅解。
 
-> **联系**：https://t.me/limboprobot （电报机器人）<br>**机场情报**：https://t.me/airportbbq （电报频道）<br> **博客地址**：https://limbopro.com/ （博客）
+
+TG用户可以**关注我们的频道**：  
+[机场情报](https://t.me/airportbbq)电报频道——机场各类情报ℹ️更新；  
+[毒奶博客资讯](https://t.me/limboprossr)电报频道 ——毒奶博客相关资讯ℹ️更新（各类文章/IT资讯/小Tips...）；  
+[反馈/联系](https://t.me/limboprobot) 🤖 / service.limbopro.com@gmail.com ；  
 
 ## 2024年机场跑路名单
 
