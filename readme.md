@@ -19,7 +19,18 @@ TG用户可以**关注我们的频道**：
 
 ### 含跑路的机场及VPS/IDC供应商
 
-暂无。过往用户反馈机场跑路/预警参阅 issue 部分 https://github.com/limbopro/Paolujichang/issues
+| 名字  | 类型  | 警告级别 | 备注  | 最后更新日期 |
+| --- | --- | --- | --- | --- |
+| 快帆云 | 机场  | 跑路 |https://github.com/limbopro/Paolujichang/issues/81| 02.26.2024 |
+| FCCloud | 机场  | 跑路 |https://github.com/limbopro/Paolujichang/issues/77 / https://github.com/limbopro/Paolujichang/issues/76 /  | 02.09.2025 |
+| spcloud | 机场  | 跑路 |https://github.com/limbopro/Paolujichang/issues/81| 02.06.2025 |
+| efcloud | 机场  | 机场转让/用户套餐时长减半 |https://github.com/limbopro/Paolujichang/issues/70| 01.21.2025 |
+| ACA | 机场  | 跑路 |https://github.com/limbopro/Paolujichang/issues/68| 01.14.2025 |
+| 十元一年 | 机场  | 客服态度及其恶劣 |https://github.com/limbopro/Paolujichang/issues/52| 10.30.2024 |
+
+
+
+过往用户反馈机场跑路/预警参阅 issue 部分 https://github.com/limbopro/Paolujichang/issues
 
 ## 2024年机场跑路名单
 
