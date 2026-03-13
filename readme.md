@@ -15,6 +15,10 @@ TG用户可以**关注我们的频道**：
 [毒奶博客资讯](https://t.me/limboprossr)电报频道 ——毒奶博客相关资讯ℹ️更新（各类文章/IT资讯/小Tips...）；  
 [反馈/联系](https://t.me/limboprobot) 🤖 / service.limbopro.com@gmail.com ；   
 
+## 2026年机场跑路名单
+
+暂无更新；过往用户反馈机场跑路/预警参阅 issue 部分 https://github.com/limbopro/Paolujichang/issues  
+
 ## 2025年机场跑路名单
 
 ### 含跑路的机场及VPS/IDC供应商
